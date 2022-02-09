@@ -1,0 +1,7 @@
+/data
+/models
+/ANN_files
+*.npz
+*.csv
+*.txt
+*.pyc
